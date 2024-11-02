@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Tripoll COM" clientCode="mobile" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="Tripoll" enableFreeSpin="Y" clientversion="1.0" gameId="300-2095-1" />
+	<GameClient name="Tripoll COM" clientCode="tablet" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="Tripoll" enableFreeSpin="Y" clientversion="1.0" gameId="300-2095-1" />
+	<GameClient name="Tripoll COM" clientCode="desktop" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="Tripoll" enableFreeSpin="Y" clientversion="1.0" gameId="300-2095-1" />
+</ClientConfig>
